@@ -6,7 +6,7 @@
 @import '_mixins.sass';
 
 /* ITCSS: Resets */
-// @import '../../node_modules/normalize.css/normalize';
+@import '_normalise.css';
 
 /* ITCSS: Fonts */
 @import '_modak.scss';

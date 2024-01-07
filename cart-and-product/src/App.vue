@@ -3,8 +3,6 @@ import { RouterLink, RouterView } from 'vue-router'
 </script>
 
 <template>
-
-
       <header class="top-bar spread">
         <nav class="top-bar-nav">
           <RouterLink to="/" class="top-bar-link">
@@ -27,7 +25,7 @@ import { RouterLink, RouterView } from 'vue-router'
   <RouterView />
 </template>
 
-<style scoped>
+<style>
 
 </style>
 
