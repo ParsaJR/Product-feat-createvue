@@ -18,7 +18,7 @@
     </div>
   </header>
 
-  <RouterView :inventory="inventory" />
+  <RouterView :inventory="inventory" :addToCart="addToCart" />
   <Sidebar
     v-if="showSidebar"
     :toggle="toggleSidebar"
