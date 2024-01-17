@@ -18,7 +18,7 @@
               <th>Price</th>
               <th>Qty</th>
               <th>Total</th>
-              <th><span class="sr-only">Actions</span></th>
+              <th><span class="sr-only">All Actions</span></th>
             </tr>
           </thead>
           <tbody>
